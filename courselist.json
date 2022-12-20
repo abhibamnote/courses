@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Robot Making",
+        "videos" : ["https://www.youtube.com/embed/XNcdSkCjZWo", "https://www.youtube.com/embed/pE6wMa9kj_E","https://www.youtube.com/embed/QcBeDbs8n9k","https://www.youtube.com/embed/WLu2Eols0BI","https://www.youtube.com/embed/-uMxhDbTg2I"]
+    },
+    {
+        "id": 2,
+        "name": "AI",
+        "videos":[]
+    }
+]
